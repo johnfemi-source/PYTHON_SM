@@ -4,7 +4,7 @@ counter = 1
 sum_odd = 0
 sum_even = 0
 
-while(counter <= number_of_integers):
+while(counter <= 20):
   
       print("Enter a number")
   
